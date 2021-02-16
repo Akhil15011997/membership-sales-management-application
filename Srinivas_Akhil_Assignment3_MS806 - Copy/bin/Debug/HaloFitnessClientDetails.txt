@@ -1,0 +1,63 @@
+392004
+29-11-2020
+Captain America
+8995642108
+cap@marvel.com
+13
+575.25
+169211
+30-11-2020
+Hulk
+7896544321
+bulk@marvel.com
+20
+790.60
+955138
+30-11-2020
+Black Widow
+3235543214
+blackwidow@avengers.co.in
+6
+318.60
+222063
+30-11-2020
+Spiderman
+7776544432
+spidey@newyork.com
+23
+909.19
+293685
+01-12-2020
+Doctor Strange
+2232485990
+strange177a@bleeckerstreet.com
+12
+566.40
+587613
+01-12-2020
+Magneto
+1112223333
+magneto@xmen.co.in
+18
+796.50
+057308
+01-12-2020
+QuickSilver
+5555666678
+QuickSilver@newavengers.com
+4
+212.40
+434667
+01-12-2020
+Scarlett Witch
+8993854890
+scarlettwitch@newavengers.com
+4
+212.40
+023364
+01-12-2020
+Captain Marvel
+5551555190
+CaptMarvel@avengers.com
+13
+575.25
